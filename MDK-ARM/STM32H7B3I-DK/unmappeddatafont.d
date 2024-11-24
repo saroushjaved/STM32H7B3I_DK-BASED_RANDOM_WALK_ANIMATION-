@@ -1,0 +1,12 @@
+stm32h7b3i-dk\unmappeddatafont.o: ../touchgfx/generated/fonts/src/unmappeddatafont.cpp
+stm32h7b3i-dk\unmappeddatafont.o: ../middlewares/st/touchgfx/framework/include/touchgfx/hal/FlashDataReader.hpp
+stm32h7b3i-dk\unmappeddatafont.o: ../middlewares/st/touchgfx/framework/include/touchgfx/hal/Types.hpp
+stm32h7b3i-dk\unmappeddatafont.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+stm32h7b3i-dk\unmappeddatafont.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32h7b3i-dk\unmappeddatafont.o: ../middlewares/st/touchgfx/framework/include/touchgfx/hal/Config.hpp
+stm32h7b3i-dk\unmappeddatafont.o: ../touchgfx/generated/fonts/include/fonts/ApplicationFontProvider.hpp
+stm32h7b3i-dk\unmappeddatafont.o: ../middlewares/st/touchgfx/framework/include/touchgfx/FontManager.hpp
+stm32h7b3i-dk\unmappeddatafont.o: ../middlewares/st/touchgfx/framework/include/touchgfx/Font.hpp
+stm32h7b3i-dk\unmappeddatafont.o: ../middlewares/st/touchgfx/framework/include/touchgfx/Unicode.hpp
+stm32h7b3i-dk\unmappeddatafont.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+stm32h7b3i-dk\unmappeddatafont.o: ../touchgfx/generated/fonts/include/fonts/UnmappedDataFont.hpp
